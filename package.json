@@ -1,0 +1,23 @@
+{
+  "name": "MochaTest",
+  "version": "1.0.0",
+  "description": "Mocha test for backend for yummycoding-gatorbook Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrandStar/MochaTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrandStar/MochaTest/issues"
+  },
+  "homepage": "https://github.com/GrandStar/MochaTest#readme"
+}
